@@ -19,6 +19,8 @@ public class Project2CSC4101 {
         
         //1 | 01110111 | 10111001000011101010100
         System.out.println(Convertor.IEEE754(-0.00673)); 
+
+ 
     }
     
 }
